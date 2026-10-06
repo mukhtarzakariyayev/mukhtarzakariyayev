@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mukhtar 👋
 
-<!--
-**mukhtarzakariyayev/mukhtarzakariyayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring QA Engineer
 
-Here are some ideas to get you started:
+I'm an aspiring QA Engineer currently building my foundation in software testing. Right now I'm focused on manual testing: learning how to write clear test cases, report bugs effectively, and apply core concepts like the SDLC and development models such as Agile, Spiral, and the V-Model. My next step is to move into test automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- SDLC & Development Models (Agile, Spiral, V-Model)
+
+## 🎯 Next Goals
+- Test Automation with Selenium and Playwright
+- API Testing with Postman
+
+## 🛠️ Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
